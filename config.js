@@ -116,4 +116,4 @@ const CONFIG = {
       replayText: "Or click, if you want to watch it again.",
     },
   ],
-};
+}; 
